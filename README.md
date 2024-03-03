@@ -8,6 +8,7 @@ In crafting a comprehensive understanding of healthcare dynamics through Explora
 
 ## Visualizing Missing Values
 Missing values often pose a tantalizing puzzle. Like elusive clues in a detective story, they can both hinder and illuminate our understanding of the bigger picture. In the dataset we're exploring, missing values play a significant role, demanding careful consideration and strategic handling. missing values in our mobile price dataset offer both a challenge and an opportunity. Through exploratory data analysis (EDA), we can uncover their patterns, understand their implications, and ultimately choose strategies to address them effectively.
+![image](https://github.com/vckdinesh/Blog-Writing/assets/99497161/0aa7470b-fb58-471a-95fc-acf2fa3d8cd2)
 
 ## Handling Missing Values
 Various strategies were employed to address missing values in the mobile dataset. Price, Colour, Battery Capacity, and Display Size were imputed using mean or K-Nearest Neighbors (KNN) methods.
